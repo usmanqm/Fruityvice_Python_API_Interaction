@@ -30,28 +30,6 @@ This project demonstrates how to:
 
 ---
 
-## Project Structure
-
-File | Purpose
-Fruityvice project.py | Main Python script that interacts with the API and performs data extraction and analysis
-README.md | Project documentation explaining setup, usage, and features
-
----
-
-## Installation
-
-Clone this repository:
-
-```bash
-git clone https://github.com/yourusername/fruityvice-project.git
-```
-
-Navigate into the project folder:
-
-```bash
-cd fruityvice-project
-```
-
 Install the required package:
 
 ```bash
