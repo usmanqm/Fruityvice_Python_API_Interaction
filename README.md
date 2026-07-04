@@ -119,18 +119,6 @@ This project helped develop practical experience with:
 
 ---
 
-## Future Improvements
-
-Possible extensions include:
-
-* Allow users to search for any fruit interactively.
-* Display all nutritional values in a formatted table.
-* Sort fruits by calories, sugar, protein, or fat.
-* Export results to a CSV file.
-* Visualize nutritional information using Matplotlib.
-* Build a simple web interface using Flask or Streamlit.
-
----
 
 
 
