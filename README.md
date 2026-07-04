@@ -159,6 +159,6 @@ Possible extensions include:
 
 
 
-Created by **Your Name**
+
 
 This project was developed for learning Python programming, REST APIs, and JSON data handling.
