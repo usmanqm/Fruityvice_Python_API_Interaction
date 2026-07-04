@@ -32,12 +32,9 @@ This project demonstrates how to:
 
 ## Project Structure
 
-```
-Fruityvice-project/
-│
-├── Fruityvice project.py
-├── README.md
-```
+File | Purpose
+Fruityvice project.py | Main Python script that interacts with the API and performs data extraction and analysis
+README.md | Project documentation explaining setup, usage, and features
 
 ---
 
